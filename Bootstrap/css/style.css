@@ -1,3 +1,37 @@
-.navbar {
-    background-color:#298A08;
+body{
+    font: 20px Arial, sans-serif;
+}
+
+.navbar{
+    background-color: #c9c1e0;
+}
+
+.img{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.quem-somos{
+    background-color: #F2EFFB;
+    color: #120A2A;
+}
+
+.parceiros{
+    background-color: #120A2A;
+    color: aqua;
+}
+
+.servicos{
+    background-color: #F2EFFB;
+    color: #120A2A;
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.bg-footer{
+    background-color: black;
+    color: whitesmoke;
 }
